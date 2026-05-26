@@ -543,6 +543,14 @@ header .hamburger-icon{
   color: #DE1212;
 }
 
+#down-get-started{
+  margin-top: -90px;
+}
+
+.pixel{
+  top:-17px
+}
+
 /*Integration*/
 .integration{
   padding-top: 150px;
