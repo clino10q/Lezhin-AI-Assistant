@@ -482,6 +482,7 @@ header .hamburger-icon{
   width: 40%;
   padding: 15px;
   border-radius: 12px;
+  justify-content: space-between;
 }
 
 .plan-header{
